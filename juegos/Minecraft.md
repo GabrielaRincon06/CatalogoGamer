@@ -10,3 +10,6 @@ Un juego sandbox donde los jugadores pueden explorar, construir y sobrevivir en 
 
 ## Imagen  
 ![Minecraft Art](https://url-de-ejemplo.com/minecraft.jpg)  
+
+## Reseña  
+Destaca por su creatividad ilimitada, comunidad activa y capacidad de adaptarse a distintos estilos de juego, desde supervivencia hasta construcción libre.
