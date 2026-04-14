@@ -10,3 +10,6 @@
 
 ## Imagen
 ![alt text](image.png)
+
+## Reseña
+Fortnite es un juego dinámico y adictivo que destaca por su mezcla única de acción, construcción y constantes actualizaciones que mantienen la experiencia fresca.
