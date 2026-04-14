@@ -5,6 +5,9 @@
 - **Año:** 1984 (Original) / 1989 (Game Boy)
 - **Plataforma:** Game Boy / NES
 
+## Sinopsis
+El jugador debe encajar piezas geométricas de diferentes formas que caen del cielo para completar líneas horizontales y evitar que la pantalla se llene.
+
 ## Imagen
 ![Tetris Art](image.png)
 
