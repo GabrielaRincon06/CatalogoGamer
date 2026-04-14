@@ -9,7 +9,7 @@
 Arthur Morgan, un forajido del Salvaje Oeste, lucha por sobrevivir mientras su banda se enfrenta al fin de una era.  
 
 ## Imagen  
-![RDR2 Art](https://url-de-ejemplo.com/rdr2.jpg)
+![alt text]({997E80A6-5B53-4B1A-91F3-C22E3885ACF1}.png)
 
 ## Reseña  
 Reconocido por su realismo, narrativa cinematográfica y un mundo abierto extremadamente detallado que reacciona a las acciones del jugador.
