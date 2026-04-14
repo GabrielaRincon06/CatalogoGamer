@@ -10,3 +10,6 @@ Geralt de Rivia, un cazador de monstruos, busca a su hija adoptiva mientras el m
 
 ## Imagen  
 ![Witcher Art](https://url-de-ejemplo.com/witcher3.jpg)
+
+## Reseña  
+Aclamado por su narrativa profunda, mundo abierto detallado y decisiones con consecuencias reales que afectan la historia.
