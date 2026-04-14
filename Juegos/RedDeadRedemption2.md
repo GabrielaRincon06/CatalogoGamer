@@ -7,3 +7,6 @@
 
 ## Sinopsis  
 Arthur Morgan, un forajido del Salvaje Oeste, lucha por sobrevivir mientras su banda se enfrenta al fin de una era.  
+
+## Imagen  
+![RDR2 Art](https://url-de-ejemplo.com/rdr2.jpg)
