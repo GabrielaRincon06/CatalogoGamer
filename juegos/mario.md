@@ -7,3 +7,6 @@
 
 ## Sinopsis
 Mario viaja a través de diversos reinos para detener a Bowser y salvar a la Princesa Peach
+
+## Imagen
+![Mario Art](image.png)
