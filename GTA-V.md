@@ -7,3 +7,6 @@
 
 ## Sinopsis
 tres criminales con historias entrelazadas realizan peligrosos golpes mientras sobreviven en un mundo abierto lleno de caos y oportunidades.
+
+## Imagen 
+![alt text](image.png)
