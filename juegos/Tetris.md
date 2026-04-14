@@ -7,3 +7,6 @@
 
 ## Imagen
 ![Tetris Art](image.png)
+
+## Reseña
+Considerado por muchos como el mejor juego de la historia debido a su diseño perfecto, adictivo y su capacidad de ser comprendido por cualquier persona en el mundo.
