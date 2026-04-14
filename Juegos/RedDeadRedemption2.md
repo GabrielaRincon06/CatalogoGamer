@@ -10,3 +10,6 @@ Arthur Morgan, un forajido del Salvaje Oeste, lucha por sobrevivir mientras su b
 
 ## Imagen  
 ![RDR2 Art](https://url-de-ejemplo.com/rdr2.jpg)
+
+## Reseña  
+Reconocido por su realismo, narrativa cinematográfica y un mundo abierto extremadamente detallado que reacciona a las acciones del jugador.
