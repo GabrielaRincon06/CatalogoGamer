@@ -9,7 +9,7 @@
 Geralt de Rivia, un cazador de monstruos, busca a su hija adoptiva mientras el mundo es amenazado por la Cacería Salvaje.  
 
 ## Imagen  
-![Witcher Art](https://url-de-ejemplo.com/witcher3.jpg)
+![alt text]({20F34FB6-242A-4427-99C3-C7216D937B51}.png)
 
 ## Reseña  
 Aclamado por su narrativa profunda, mundo abierto detallado y decisiones con consecuencias reales que afectan la historia.
