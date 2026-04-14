@@ -11,4 +11,9 @@ La historia gira en torno a un ciclo recurrente donde Link, la princesa Zelda y 
 Cada entrega presenta una variación de esta lucha, combinando exploración, combate, resolución de puzzles y desarrollo de habilidades, en un mundo que mezcla fantasía, mitología y aventura. 
 ## Imagen 
 ![alt text](image.png)
+## Reseña 
+Es un juego de aventura y exploración altamente valorado por su diseño, libertad de acción y mecánicas bien integradas. Permite al jugador recorrer mundos amplios, resolver acertijos y progresar mediante habilidades, lo que genera una experiencia dinámica y poco repetitiva.
 
+Para la mayoría de jugadores, ofrece un equilibrio sólido entre desafío, historia y jugabilidad.
+
+Calificación general: ⭐ 9/10
