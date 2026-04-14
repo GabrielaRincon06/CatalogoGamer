@@ -10,3 +10,6 @@ tres criminales con historias entrelazadas realizan peligrosos golpes mientras s
 
 ## Imagen 
 ![alt text](image.png)
+
+## Reseña
+Grand Theft Auto V es un juego aclamado por su enorme mundo abierto, narrativa envolvente y libertad de acción que ofrece una experiencia profunda y variada.
