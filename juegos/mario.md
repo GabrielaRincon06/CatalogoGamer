@@ -10,3 +10,6 @@ Mario viaja a través de diversos reinos para detener a Bowser y salvar a la Pri
 
 ## Imagen
 ![Mario Art](image.png)
+
+## Reseña
+Considerado por muchos como el mejor juego de la historia debido a su innovación en las mecánicas de scroll lateral y por rescatar la industria de los videojuegos tras la crisis de 1983.
