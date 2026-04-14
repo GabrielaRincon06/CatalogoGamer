@@ -5,3 +5,5 @@
 - **Plataforma:** Arcade
 ## Sinopsis
 Pac-Man debe recorrer laberintos comiendo puntos mientras evita a los fantasmas.
+## Imagen
+![alt text](image.png)
